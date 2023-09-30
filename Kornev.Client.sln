@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kornev.Client", "Kornev.Client\Kornev.Client.csproj", "{71EE505B-BFB9-4177-B518-14B90BBFC06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kornev.Lib", "Kornev.Lib\Kornev.Lib.csproj", "{5809EC1B-1079-4282-A54C-91C171DFA553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kornev.LibTest", "Kornev.LibTest\Kornev.LibTest.csproj", "{FD134698-1B13-46EB-B800-29584D281774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EE505B-BFB9-4177-B518-14B90BBFC06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EE505B-BFB9-4177-B518-14B90BBFC06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EE505B-BFB9-4177-B518-14B90BBFC06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EE505B-BFB9-4177-B518-14B90BBFC06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5809EC1B-1079-4282-A54C-91C171DFA553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5809EC1B-1079-4282-A54C-91C171DFA553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5809EC1B-1079-4282-A54C-91C171DFA553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5809EC1B-1079-4282-A54C-91C171DFA553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD134698-1B13-46EB-B800-29584D281774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD134698-1B13-46EB-B800-29584D281774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD134698-1B13-46EB-B800-29584D281774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD134698-1B13-46EB-B800-29584D281774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
